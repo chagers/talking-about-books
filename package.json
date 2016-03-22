@@ -1,0 +1,19 @@
+{
+  "name": "talking-about-books",
+  "version": "1.0.0",
+  "description": "Talking about books and drinking and stuff: a PNW book club app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chagers/talking-about-books.git"
+  },
+  "author": "Christine Hager <cehager@gmail.com> (chagers.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chagers/talking-about-books/issues"
+  },
+  "homepage": "https://github.com/chagers/talking-about-books#readme"
+}

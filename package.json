@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chagers/talking-about-books/issues"
   },
-  "homepage": "https://github.com/chagers/talking-about-books#readme"
+  "homepage": "https://github.com/chagers/talking-about-books#readme",
+  "dependencies": {
+    "mongodb": "^2.1.11"
+  }
 }
